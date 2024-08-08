@@ -78,6 +78,7 @@
 #include <string>
 #include <utility>
 #include <vector>
+#include <functional>
 
 namespace snappy {
 
